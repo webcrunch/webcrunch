@@ -29,6 +29,8 @@
 <!--
 **webcrunch/webcrunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webcrunch&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 Here are some ideas to get you started:
