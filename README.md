@@ -1,6 +1,6 @@
 
 <div align="center">
-  ### Hello there  👋
+  <h1>Hello there  👋</h1>
   <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
