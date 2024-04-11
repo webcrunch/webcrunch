@@ -1,5 +1,4 @@
-  - 🔭 I’m currently working on updating my skills      
-  - 🌱 I’m currently learning more fun about DevOps and Programming languages        
+
 
 <div align="center">
   <h1>Hello there  👋</h1>
@@ -74,6 +73,6 @@
 -->
 
 
-
-
 </div>
+  - 🔭 I’m currently working on updating my skills      
+  - 🌱 I’m currently learning more fun about DevOps and Programming languages        
