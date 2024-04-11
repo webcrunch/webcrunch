@@ -27,7 +27,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcrunch&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### :hammer_and_wrench: Languages and Tools, Worked with :
+### :hammer_and_wrench: Languages and Tools i have worked with :
 <div>
   <p>Programming Language:</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
