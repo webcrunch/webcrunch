@@ -3,7 +3,7 @@
   <h1>Hello there  👋</h1>
   <div>
   Here are some ideas to get you started:
-
+  <div align="left">
 - 🔭 I’m currently working on updating my skills
 - 🌱 I’m currently learning more fun about DevOps and Programming languages
 <!--- 👯 I’m looking to collaborate on ... 
@@ -12,7 +12,7 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ??
-
+</div>
 ![Webcrunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrunch&show_icons=true&theme=radical)
 </div>
 
