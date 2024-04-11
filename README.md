@@ -1,22 +1,14 @@
+  - 🔭 I’m currently working on updating my skills      
+  - 🌱 I’m currently learning more fun about DevOps and Programming languages        
 
 <div align="center">
   <h1>Hello there  👋</h1>
-  <div>
-  <div>
-    <ul>
-      <li>
-  - 🔭 I’m currently working on updating my skills      
-      </li>
-      <li>
-  - 🌱 I’m currently learning more fun about DevOps and Programming languages        
-      </li>
     <!--- 👯 I’m looking to collaborate on ... 
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
   - 📫 How to reach me: 
   - 😄 Pronouns: ... -->
   - ⚡ Fun fact: ??
-  </div>
 ![Webcrunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrunch&show_icons=true&theme=radical)
 </div>
 
