@@ -2,11 +2,15 @@
 <div align="center">
   <h1>Hello there  👋</h1>
   <div>
-  Here are some ideas to get you started:
   <div>
-  - 🔭 I’m currently working on updating my skills
-  - 🌱 I’m currently learning more fun about DevOps and Programming languages
-  <!--- 👯 I’m looking to collaborate on ... 
+    <ul>
+      <li>
+  - 🔭 I’m currently working on updating my skills      
+      </li>
+      <li>
+  - 🌱 I’m currently learning more fun about DevOps and Programming languages        
+      </li>
+    <!--- 👯 I’m looking to collaborate on ... 
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
   - 📫 How to reach me: 
