@@ -2,7 +2,7 @@
 
   - 🔭 I’m currently working on updating my skills      
   - 🌱 I’m currently learning more fun about DevOps and Programming languages        
-
+  - ⚡ Fun fact: ??
 
 <div align="center">
   <h1>Hello there  👋</h1>
@@ -10,9 +10,9 @@
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
   - 📫 How to reach me: 
-  - 😄 Pronouns: ... -->
-  - ⚡ Fun fact: ??
-![Webcrunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrunch&show_icons=true&theme=radical)
+  - 😄 Pronouns: ... 
+  
+![Webcrunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrunch&show_icons=true&theme=radical)-->
 
 
 
