@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask.Python" **alt="Flask-Python" width="40" height="40"  />
   <p>Tools: </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" title="ArgoCD" **alt="ArgoCD" width="40" height="40"/>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/argocd/argocd-original-wordmark.svg' title="ArgoCD2" **alt="ArgoCD2" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40" />
