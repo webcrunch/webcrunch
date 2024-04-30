@@ -63,6 +63,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original-wordmark.svg" title="Influx" **alt="Influx" width="40" height="40" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/influxdb/influxdb-original.svg' />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postman/postman-original.svg' title="Postman" **alt="Postman" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" **alt="MongDB" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" **alt="Mongosse" width="40" height="40" />
