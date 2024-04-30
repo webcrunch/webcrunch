@@ -1,8 +1,8 @@
 
 
-  - 🔭 I’m currently working on updating my skills      
+  - 🔭 I’m currently working on updating my skills 
   - 🌱 I’m currently learning more fun about DevOps and Programming languages        
-  - ⚡ Fun fact: ??
+  - ⚡ Fun fact: 😄 Guy, 🇸🇪 Swede 
 
 <div align="center">
   <h1>Hello there  👋</h1>
