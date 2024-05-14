@@ -45,6 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="Github-actions" **alt="Github-actions" width="40" height="40"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/gitlab/gitlab-original-wordmark.svg' title="GitLab" **alt="GitLab" width="40" height="40" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/grafana/grafana-original-wordmark.svg' title="Grafana" **alt="Grafana" width="40" height="40"/>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/prometheus/prometheus-original-wordmark.svg' title="Promethius" **alt="Promethius" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress" **alt="Cypress" width="40" height="40" />
