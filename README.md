@@ -2,7 +2,7 @@
 
   - 🔭 I’m currently working on updating my skills 
   - 🌱 I’m currently learning more fun about DevOps and Programming languages        
-  - ⚡ Fun fact: 😄 Guy, 🇸🇪 Swede 
+  - ⚡ Fun fact: 😄 Guy, 🇸🇪 Swede , Want to create a npm package to test how it works also
 
 <div align="center">
   <h1>Hello there  👋</h1>
