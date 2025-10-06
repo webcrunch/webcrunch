@@ -1,12 +1,13 @@
 
-
+  - 👋 Hi, I’m @webcrunch
+  - 👀 I’m interested in ... Python, Java, Database, Testing, DevOp, infrastructure, Agile System Development, HTML, CSS, JavaScript,   WebDevelopment, GOlang, C#, CI/CD deployment, Docker & Kubernetes cluster micro-services
   - 🔭 I’m currently working on updating my skills, never ending story :)
-  - [ikon]  I’m studying Software Engineer, AI specialization 
+  - 😄  I’m studying Software Engineer, AI specialization 
   - 🌱 Always looking to learning more fun about DevOps and Programming languages        
   - ⚡ Fun fact: 😄 Guy, 🇸🇪 Swede , Want to create a npm package to test how it works also
 
 <div align="center">
-  <h1>Hello there  👋</h1>
+  <h1>Hello there 👋 from @webcrunch </h1>
   
   <!---
   - 👯 I’m looking to collaborate on ... 
