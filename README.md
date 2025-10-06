@@ -1,8 +1,8 @@
 
 
   - 🔭 I’m currently working on updating my skills, never ending story :)
-  - [ikon] I am studying Software Engineer, AI specialization 
-  - 🌱 I’m currently learning more fun about DevOps and Programming languages        
+  - [ikon]  I’m studying Software Engineer, AI specialization 
+  - 🌱 Always looking to learning more fun about DevOps and Programming languages        
   - ⚡ Fun fact: 😄 Guy, 🇸🇪 Swede , Want to create a npm package to test how it works also
 
 <div align="center">
