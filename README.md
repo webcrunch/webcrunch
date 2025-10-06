@@ -4,7 +4,7 @@
   - 🔭 I’m currently working on updating my skills, never ending story :)
   - 😄  I’m studying Software Engineer, AI specialization 
   - 🌱 Always looking to learning more fun about DevOps and Programming languages        
-  - ⚡ Fun fact: 😄 Guy, 🇸🇪 Swede , Want to create a npm package to test how it works also
+  - ⚡ Fun fact: 😄 Guy, 🇸🇪 SWEde , Want to create a npm package to test how it works also
 
 <div align="center">
   <h1>Hello there 👋 from @webcrunch </h1>
@@ -17,8 +17,6 @@
   - 😄 Pronouns: ... 
 ![Webcrunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrunch&show_icons=true&theme=radical) 
   -->
-
-
 
   <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -44,6 +42,7 @@
     <p>Tools: </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" title="ArgoCD" **alt="ArgoCD" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="Github-actions" **alt="Github-actions" width="40" height="40"/>
@@ -76,7 +75,6 @@
 
   <!--  
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
