@@ -93,10 +93,10 @@
 
 <div align="center">
 <h2>🤝 Connect with me</h2>
-  <a href="https://linkedin.com/in/DITT_ANVÄNDARNAMN">
+  <a href="https://linkedin.com/in/webcrunch">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:DIN_MAIL@example.com">
+  <a href="mailto:jarllindquist@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
