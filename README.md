@@ -18,7 +18,7 @@
 
 
 <div align="center">
-### 📊 GitHub Stats
+  <h2>📊 GitHub Stats</h2>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webcrunch&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcrunch&layout=compact&theme=radical&langs_count=8" />
