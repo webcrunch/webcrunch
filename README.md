@@ -29,9 +29,9 @@
 </div>-->
 
 ---
+### :hammer_and_wrench: Languages and Tools i have worked with :
 
 <div align="center">
-### :hammer_and_wrench: Languages and Tools i have worked with :
   <p>Operating systems:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" **alt="Windows" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40" />
@@ -90,8 +90,9 @@
 
 ---
 
-### 🤝 Connect with me
+
 <div align="center">
+<h2>🤝 Connect with me</h2>
   <a href="https://linkedin.com/in/DITT_ANVÄNDARNAMN">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
