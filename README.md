@@ -22,9 +22,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcrunch&layout=compact&theme=radical&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=webcrunch&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<!--<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=webcrunch&theme=radical&hide_border=true"  />
+</div>-->
 
 ---
 
