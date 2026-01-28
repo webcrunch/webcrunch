@@ -16,8 +16,10 @@
 
 ---
 
-### 📊 GitHub Stats
+
 <div align="center">
+### 📊 GitHub Stats
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webcrunch&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcrunch&layout=compact&theme=radical&langs_count=8" />
 </div>
@@ -28,8 +30,8 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools i have worked with :
 <div align="center">
+### :hammer_and_wrench: Languages and Tools i have worked with :
   <p>Operating systems:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" **alt="Windows" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40" />
