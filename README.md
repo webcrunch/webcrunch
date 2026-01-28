@@ -51,6 +51,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/grafana/grafana-original-wordmark.svg' title="Grafana" **alt="Grafana" width="40" height="40"/>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/prometheus/prometheus-original-wordmark.svg' title="Promethius" **alt="Promethius" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress" **alt="Cypress" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" **alt="Cypress" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" **alt="Cucumber" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS-code" **alt="VS-code" width="40" height="40" />
