@@ -29,7 +29,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools i have worked with :
-<div>
+<div align="center">
   <p>Operating systems:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" **alt="Windows" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40" />
